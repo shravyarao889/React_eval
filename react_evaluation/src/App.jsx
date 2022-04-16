@@ -2,7 +2,7 @@ import { Link, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Addcity } from "./Components/addCity";
 import { Addcountry } from "./Components/addCountry";
-import { Home } from "./Components/home";
+import { Home } from "./Components/Home";
 
 function App() {
   return (
