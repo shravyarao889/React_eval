@@ -1,16 +1,46 @@
 {
-    "cities": [
-      {
-        "cityname": "hyderbad",
-        "population": "150000",
-        "country": "india",
-        "id": 1
-      }
-    ],
-    "countries": [
-      {
-        "name": "Dubai",
-        "id": 1
-      }
-    ]
-  }
+  "cities": [
+    {
+      "cityname": "Pune",
+      "population": "19000000",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "cityname": "Wuhan",
+      "population": "5600000",
+      "country": "China",
+      "id": 2
+    },
+    {
+      "cityname": "Srilanka",
+      "population": "35000000",
+      "country": "Colombo",
+      "id": 3
+    },
+    {
+      "cityname": "Chicago",
+      "population": "2920000",
+      "country": "USA",
+      "id": 4
+    }
+  ],
+  "countries": [
+    {
+      "name": "India",
+      "id": 1
+    },
+    {
+      "name": "China",
+      "id": 2
+    },
+    {
+      "name": "Colombo",
+      "id": 3
+    },
+    {
+      "name": "USA",
+      "id": 4
+    }
+  ]
+}
